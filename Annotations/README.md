@@ -16,4 +16,4 @@
 
 6. Normalise the modified ontology following the steps mentioned [here](https://github.com/bio-ontology-research-group/el-embeddings).
 
-7. Rum [EmEL++](https://github.com/kracr/EmELpp/tree/master) on the normalised ontology.
+7. Run [EmEL++](https://github.com/kracr/EmELpp/tree/master) on the normalised ontology.
