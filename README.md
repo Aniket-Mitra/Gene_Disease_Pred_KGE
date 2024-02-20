@@ -23,6 +23,17 @@ Paper Link-  [Enhancing Region-Based Geometric Embedding for Gene-Disease Associ
 </br>
 </br>
 
+# Citation Details
+
+If you use concepts, codes, datasets, etc. from this project request to cite as:
+@inproceedings{mitra2024enhancing,
+  title={Enhancing Region-Based Geometric Embedding for Gene-Disease Associations},
+  author={Mitra, Aniket and Venugopal, Vinu},
+  booktitle={Proceedings of the 7th Joint International Conference on Data Science \& Management of Data (11th ACM IKDD CODS and 29th COMAD)},
+  pages={584--585},
+  year={2024}
+}
+
 ## ACKNOWLEDGEMENT
 I acknowledge the following repositories which we referred regarding codes,concepts and data:
 1. [Bio-Ontology Research Group(KAUST)](https://github.com/bio-ontology-research-group/el-embeddings)
