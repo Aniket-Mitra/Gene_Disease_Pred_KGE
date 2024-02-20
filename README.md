@@ -11,6 +11,10 @@ Link- [https://drive.google.com/file/d/19JfPBaWhc92MeT4BZSuiRQPuwyA4ciD9/view?us
 
 1. Hits@10 , 2. Hits@100 , 3. Median Rank, 4. 90th Percentile Rank, 5. Mann Whitney-U Statistical Test
 
+# Paper details
+
+Paper Link-  [Enhancing Region-Based Geometric Embedding for Gene-Disease Associations](https://dl.acm.org/doi/10.1145/3632410.3632489)
+
 ## ACKNOWLEDGEMENT
 I acknowledge the following repositories which we referred regarding codes,concepts and data:
 1. [Bio-Ontology Research Group(KAUST)](https://github.com/bio-ontology-research-group/el-embeddings)
